@@ -1,5 +1,5 @@
 // 앱 화면을 기기에 저장해 두어 인터넷이 없어도 열리게 합니다.
-const CACHE = 'bwnw-v2';
+const CACHE = 'bwnw-v4';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {

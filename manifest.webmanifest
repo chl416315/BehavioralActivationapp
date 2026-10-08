@@ -1,0 +1,16 @@
+{
+  "name": "비를 기다리지 않는 법 기록장",
+  "short_name": "비 기다리지 않기",
+  "description": "행동활성화 14일 연습장 기록장",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDEFF3",
+  "theme_color": "#DD7027",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
